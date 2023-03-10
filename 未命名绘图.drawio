@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T02:43:00.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="S5rpiFe5vh4MBPgq_HtI" version="21.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-10T03:18:10.912Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="lKFwwOUO3_SQ3sxyjnpj" version="21.0.6" type="github" pages="3">
   <diagram name="第 1 页" id="wWwGWZatF7cOeNBq2E0I">
     <mxGraphModel dx="1050" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -293,18 +293,42 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UBXN7q_B1yWaRuqr_l3J" name="第 3 页">
-    <mxGraphModel dx="1050" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="u5cbQiieOLSm-A7Nd0g_-1" value="特徵提取算法研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="u5cbQiieOLSm-A7Nd0g_-1" value="特徵提取與編碼算法研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="isZR9KRHvJnseceheFSa-1" value="高維數據序列化與編碼研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZvZcxt8QtqX7NNOTloWl-1" value="特徵融合與上采樣解碼器技術研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvZcxt8QtqX7NNOTloWl-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="100" width="140" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvZcxt8QtqX7NNOTloWl-3" value="特徵編碼與基於監督學習的分類算法研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="164" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvZcxt8QtqX7NNOTloWl-4" value="多模型聯合決策算法研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvZcxt8QtqX7NNOTloWl-5" value="聯合人工判別與反饋的結果評估算法研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="245" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvZcxt8QtqX7NNOTloWl-6" value="結合人工判別的反饋模型研究" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvZcxt8QtqX7NNOTloWl-7" value="强化學習優化策略研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvZcxt8QtqX7NNOTloWl-8" value="神經網絡模型權重優化算法研究" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZvZcxt8QtqX7NNOTloWl-9" value="多模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
