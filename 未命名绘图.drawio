@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T04:06:15.636Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="nc7BGDXm1hS888Rq2Lwi" version="21.0.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-03-10T04:10:33.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="T0t95sIH4ur-5sjpfHsO" version="21.0.6" type="github" pages="3">
   <diagram name="第 1 页" id="wWwGWZatF7cOeNBq2E0I">
     <mxGraphModel dx="1050" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -298,13 +298,17 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ZvZcxt8QtqX7NNOTloWl-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="40" width="590" height="270" as="geometry" />
+          <mxGeometry x="120" y="40" width="560" height="270" as="geometry" />
         </mxCell>
         <mxCell id="ZvZcxt8QtqX7NNOTloWl-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="40" width="140" height="270" as="geometry" />
         </mxCell>
         <mxCell id="ZvZcxt8QtqX7NNOTloWl-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZvZcxt8QtqX7NNOTloWl-13" target="ZvZcxt8QtqX7NNOTloWl-9">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="115" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZvZcxt8QtqX7NNOTloWl-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="273.5" y="97.5" width="140" height="185" as="geometry" />
@@ -381,18 +385,19 @@
         <mxCell id="ZvZcxt8QtqX7NNOTloWl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZvZcxt8QtqX7NNOTloWl-9" target="ZvZcxt8QtqX7NNOTloWl-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="700" y="110" />
-              <mxPoint x="700" y="200" />
+              <mxPoint x="610" y="110" />
+              <mxPoint x="670" y="110" />
+              <mxPoint x="670" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="ZvZcxt8QtqX7NNOTloWl-9" value="結果評估與決策模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="85" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZvZcxt8QtqX7NNOTloWl-18" value="肺部CT圖像病竈&lt;br&gt;檢測算法研究" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="ZvZcxt8QtqX7NNOTloWl-18" value="基于改进的TransUNet的&lt;br&gt;肺部病灶分类检测技术" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="-60" y="40" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZvZcxt8QtqX7NNOTloWl-20" value="基於肺部CT圖像的疾病輔助決策研究" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="ZvZcxt8QtqX7NNOTloWl-20" value="基于反馈强化学习的肺部疾病诊断方法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="304" y="40" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
