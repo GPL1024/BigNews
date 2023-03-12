@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T01:49:26.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Mc-lHSci5NniohpAcJnQ" version="21.0.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-03-12T01:52:32.073Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="EjWfA89oIvpGRETPH3ph" version="21.0.6" type="github" pages="4">
   <diagram name="第 1 页" id="wWwGWZatF7cOeNBq2E0I">
     <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 2 页" id="qKJ4dRJLFAjRSL5od95D">
-    <mxGraphModel dx="1124" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1635" dy="1046" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,7 +51,7 @@
           <mxGeometry x="90" y="-90" width="470" height="230" as="geometry" />
         </mxCell>
         <mxCell id="v6sQpj_gtYtZZU9d1Hgo-26" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;arcSize=10;" parent="1" vertex="1">
-          <mxGeometry x="-145" y="-90" width="225" height="140" as="geometry" />
+          <mxGeometry x="-145" y="-90" width="225" height="150" as="geometry" />
         </mxCell>
         <mxCell id="faUIM797OG_IzEMnaKyI-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-200" y="210" width="500" height="130" as="geometry" />
@@ -249,10 +249,10 @@
         <mxCell id="v6sQpj_gtYtZZU9d1Hgo-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="v6sQpj_gtYtZZU9d1Hgo-23" vertex="1">
           <mxGeometry x="250" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="v6sQpj_gtYtZZU9d1Hgo-25" value="Transformer編碼模塊" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="-102.5" y="116.75" width="135" height="10" as="geometry" />
+        <mxCell id="v6sQpj_gtYtZZU9d1Hgo-25" value="多層Transformer編碼模塊" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="-123.12" y="116.75" width="181.25" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="v6sQpj_gtYtZZU9d1Hgo-27" value="CNN特徵圖提取" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="v6sQpj_gtYtZZU9d1Hgo-27" value="CNN特徵圖提取" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-95" y="-80" width="120" height="10" as="geometry" />
         </mxCell>
         <mxCell id="v6sQpj_gtYtZZU9d1Hgo-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" parent="1" edge="1">
@@ -282,7 +282,7 @@
         <mxCell id="faUIM797OG_IzEMnaKyI-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;shape=flexArrow;fillColor=#FFFFFF;" parent="1" source="faUIM797OG_IzEMnaKyI-36" target="faUIM797OG_IzEMnaKyI-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v6sQpj_gtYtZZU9d1Hgo-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+        <mxCell id="v6sQpj_gtYtZZU9d1Hgo-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="-188.46999999999997" as="sourcePoint" />
             <mxPoint x="240" y="-188.46999999999997" as="targetPoint" />
@@ -308,8 +308,8 @@
         <mxCell id="0zjc_TadT7LH5d5rxST9-4" value="Transformer層編碼操作" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="-25" y="350" width="150" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="0zjc_TadT7LH5d5rxST9-6" value="U-Net上采樣解碼器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="255" y="-80" width="120" height="10" as="geometry" />
+        <mxCell id="0zjc_TadT7LH5d5rxST9-6" value="U-Net上采樣解碼器" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-80" width="135" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
