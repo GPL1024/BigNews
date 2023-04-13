@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T05:31:24.742Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="gWMp57JAKAqNIa9Q2M9v" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-13T06:12:34.325Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="awJCygecurmfAhEC_Zf4" version="21.0.6" type="github">
   <diagram name="第 1 页" id="mBBKddOzOmQJDTXAGtIU">
     <mxGraphModel dx="2261" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ufxZkdWB1Rbn-QsNeoDi-1" value="光柵化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="-90" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ufxZkdWB1Rbn-QsNeoDi-2" value="神經三維網格渲染" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="110" width="120" height="60" as="geometry" />
@@ -23,16 +23,25 @@
           <mxGeometry x="294" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ufxZkdWB1Rbn-QsNeoDi-7" value="單一面光柵化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="70" y="555" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ufxZkdWB1Rbn-QsNeoDi-8" value="pixel inside the face" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ufxZkdWB1Rbn-QsNeoDi-9" value="pixel outside the face" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ufxZkdWB1Rbn-QsNeoDi-10" value="模糊圖像以產生梯度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="660" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ufxZkdWB1Rbn-QsNeoDi-11" value="綫性插值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ufxZkdWB1Rbn-QsNeoDi-12" value="content loss" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ufxZkdWB1Rbn-QsNeoDi-13" value="style loss" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
