@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T04:14:15.316Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="cqf0ZOQu-GOjXpIffXF-" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-13T04:19:48.519Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="IK9BRO6K7P53EeQgNFqU" version="21.0.6" type="github">
   <diagram name="第 1 页" id="mBBKddOzOmQJDTXAGtIU">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,15 @@
         <mxCell id="1" parent="0" />
         <mxCell id="ufxZkdWB1Rbn-QsNeoDi-1" value="光柵化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ufxZkdWB1Rbn-QsNeoDi-2" value="神經三維網格渲染" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ufxZkdWB1Rbn-QsNeoDi-3" value="V0 is coordinates of one point" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ufxZkdWB1Rbn-QsNeoDi-4" value="F0 is indices of three V0 of a triangle face." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
