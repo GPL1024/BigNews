@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T05:15:02.935Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Hs5DLEFi13Z6H1NOBTma" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-13T05:31:24.742Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="gWMp57JAKAqNIa9Q2M9v" version="21.0.6" type="github">
   <diagram name="第 1 页" id="mBBKddOzOmQJDTXAGtIU">
     <mxGraphModel dx="2261" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="ufxZkdWB1Rbn-QsNeoDi-9" value="pixel outside the face" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ufxZkdWB1Rbn-QsNeoDi-10" value="模糊圖像以產生梯度" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
